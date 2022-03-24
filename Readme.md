@@ -22,7 +22,7 @@ Estrutura do projeto
 
 
 
-Rodar aplicação a partir de : MvcApplication
+Rodar aplicação a partir de : MvcApplication e exceutar testes de CRUD via Postman ou outro programa testador baseado em REST. 
 
 
 
